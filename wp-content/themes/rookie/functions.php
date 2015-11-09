@@ -657,9 +657,9 @@ function rookie_footer_copyright() {
  */
 function rookie_footer_credit() {
 	?>
-	<div class="site-credit">
+	<!-- <div class="site-credit">
 		<a href="http://themeboy.com/"><?php printf( __( 'Designed by %s', 'rookie' ), 'ThemeBoy' ); ?></a>
-	</div><!-- .site-info -->
+	</div> --><!-- .site-info -->
 	<?php
 }
 

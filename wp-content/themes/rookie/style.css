@@ -52,9 +52,7 @@ h1, h2 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: 135px;
-}
-.site-branding hgroup {
-	margin-left: 143px;
+	margin-left: 10px;
 }
 
 /* Body Font */
@@ -294,6 +292,7 @@ a:hover {
 .main-navigation {
 	background: #2b353e;
 	font-weight: bold !important;
+	margin-top: 5px;
 }
 
 /* Menu Link Color */
