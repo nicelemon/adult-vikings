@@ -670,6 +670,10 @@ a {
 	font-size: 16px;
 }
 
+ul.sub-menu {
+	padding-left: 8px;
+}
+
 /* Small menu */
 .menu-toggle {
 	display: none;
