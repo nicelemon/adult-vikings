@@ -48,7 +48,7 @@ h1, h2 {
 	font-weight: 500;
 }
 .site-branding {
-	background-image: url("http://vikings.dev/wp-content/uploads/2015/11/admin-ajax.png");
+	background-image: url("/wp-content/uploads/2015/11/admin-ajax.png");
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: 135px;
